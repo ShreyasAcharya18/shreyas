@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping</title>
+    <link rel="shortcut icon" href="https://cdn.pixabay.com/photo/2024/10/04/20/59/using-laptop-9097617_640.jpg" type="image/x-icon">
+ <style>
+    table{
+        text-align: center;
+            }
+ </style>
+</head>
+
+<body>
+    <center>
+      <table border="" cellpadding="10px" cellspacing="5px" bgcolor="lightgoldenrod">
+        <thead>
+            <tr>
+               <th>Product Name</th> 
+                <th>Product Image</th>
+                <th>Product Qty</th>
+                <th>Product Price</th>
+            </tr>
+         </thead>
+        
+         <tbody bgcolor="lightyellow">
+            <tr >
+                <td>Shirt</td>
+                <td > <a href="https://www.flipkart.com/stoneberg-men-solid-formal-dark-blue-shirt/p/itm1427db21f25c6?pid=SHTGEUM847AFCEZ7&lid=LSTSHTGEUM847AFCEZ7BKI9G2&marketplace=FLIPKART&q=shirts&store=clo%2Fash%2Faxc&srno=s_1_5&otracker=search&otracker1=search&fm=Search&iid=en_aNagOfZUUs2lwQnOWSoPHbRgYNmTe0Y281efKpYIA0Le4EPs_0h06IrSjqPAF3UatWezeuNmoa0WaI0zzdsI1Q%3D%3D&ppt=sp&ppn=sp&ssid=rym2rnne7k0000001730139545193&qH=514ca2b2d46ccf67"> <img src="https://cdn.pixabay.com/photo/2023/05/06/01/34/t-shirt-7973404_640.jpg"  alt="" height="100px" width="100px"></a> </td>
+                <td rowspan="2" > 10</td>
+                <td>5500.00</td>
+            </tr>
+            <tr>
+                <td>Bag</td>
+                <td> <a href="https://www.amazon.in/FATMUG-Laptop-Bag-Men-Convertible/dp/B084LF4RT5/ref=sr_1_1_sspa?crid=3L2V53G4QQ5AH&dib=eyJ2IjoiMSJ9.NdOKhzTWp5YJqrnZWmusO1eZoEm1b1B6fyXInT6gBMzxsu1jD9ix6uS8wyB9p71FTwkCg4JfirsmOTKYS_-SZcisOga_JHC1LxtlJmmFXYKg6sUuCbkaisMtQqsas-1P4JnbXPam2ivSQh0Wpvf97r2lHljCTXk33w1eth6-mv6dLrpLF9aWQVg-WKzu0wOx85y4luTlSwFubpE9-Wo7usjDzxAPqkwmGwgr9053poU.0ArP0wpzLWHAWpng9fwWh5oBhTFiWLVB5X1eQqwTZFU&dib_tag=se&keywords=bags&qid=1730139767&sprefix=bags%2Caps%2C191&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"><img src="https://cdn.pixabay.com/photo/2024/04/18/14/31/ai-generated-8704438_640.jpg" alt="" height="100px" width="100px"></a></td>
+                <!-- <td>10</td> -->
+                <td>10,500.00</td>
+            </tr>
+            <tr>
+                <td>Watch</td>
+                <td> <a href="https://www.ethoswatches.com/rolex/watches"><img src="https://cdn.pixabay.com/photo/2016/03/05/09/05/wrist-watch-1237418_640.jpg" alt="" height="100px" width="100px"></td>
+                    <td>5</a></td>
+                <td>15,000.00</td>
+            </tr>
+            <tr>
+                <td>Shoes</td>
+                <td> <a href="https://www.nike.com/in/"><img src="https://cdn.pixabay.com/photo/2018/10/13/05/25/shoes-men-3743524_640.jpg" alt="" height="100px" width="100px"></a></td>
+                <td>1</td>
+                <td>3400.00</td>
+            </tr>
+         </tbody>
+      </table>
+    </center>
+</body>
+</html>
